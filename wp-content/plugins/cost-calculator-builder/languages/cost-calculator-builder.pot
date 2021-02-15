@@ -1,0 +1,311 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cost Calculator Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-09 07:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3"
+
+#: backend/helpers/post_type/cost-calc.php:47
+#: backend/helpers/post_type/cost-calc.php:52
+#, php-format
+msgctxt " name"
+msgid "%s"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/listing-page.php:9
+msgid "Actions"
+msgstr ""
+
+#: backend/helpers/post_type/cost-calc.php:48
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: backend/includes/admin/view/partials/modal.php:64
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:115
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:170
+msgid "Background-Color"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:109
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:164
+msgid "Border-Radius"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:90
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:145
+msgid "Box-shadow"
+msgstr ""
+
+#: backend/includes/admin/view/partials/info.php:2
+#: backend/includes/admin/view/partials/info.php:14
+msgid "Calculator created"
+msgstr ""
+
+#: backend/includes/admin/view/partials/info.php:6
+msgid "Calculator saved"
+msgstr ""
+
+#: backend/includes/admin/view/partials/info.php:22
+msgid "Changes saved"
+msgstr ""
+
+#: backend/includes/Controllers/STM_SettingsController.php:12
+#: backend/includes/admin/view/main.php:12
+msgid "Cost Calculator"
+msgstr ""
+
+#. Name of the plugin
+msgid "Cost Calculator Builder"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-menu.php:3
+#: backend/includes/admin/view/partials/tab-pages/create-page.php:170
+msgid "Create"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/create-page.php:3
+msgid "Create Cost Calculator"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-menu.php:13
+msgid "Custom"
+msgstr ""
+
+#: backend/includes/admin/view/main.php:62
+msgid "Customize Form"
+msgstr ""
+
+#: backend/includes/admin/view/partials/modal.php:65
+#: backend/includes/admin/view/partials/tab-pages/listing-page.php:33
+msgid "Delete"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/listing-page.php:27
+msgid "Edit"
+msgstr ""
+
+#: backend/helpers/post_type/cost-calc.php:50
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-menu.php:8
+msgid "Existing"
+msgstr ""
+
+#: backend/includes/admin/view/main.php:29
+msgid "Existing Calculators"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:25
+msgid "Font-Size"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:14
+msgid "H-Container"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/cost-calculator-builder/"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/listing-page.php:6
+msgid "ID"
+msgstr ""
+
+#: backend/includes/admin/view/main.php:38
+msgid "Import Calculators"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:96
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:151
+msgid "Inset Box-Shadow"
+msgstr ""
+
+#: backend/includes/admin/view/partials/info.php:18
+msgid "Item deleted"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:8
+msgid "Label"
+msgstr ""
+
+#: backend/includes/admin/view/main.php:4
+msgid "Loading"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:59
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:78
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:133
+msgid "Margin"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/create-page.php:7
+msgid "Name"
+msgstr ""
+
+#: backend/includes/admin/view/partials/info.php:10
+msgid "Name field is empty"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/create-page.php:17
+msgid "Name:"
+msgstr ""
+
+#: backend/helpers/post_type/cost-calc.php:49
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: backend/helpers/post_type/cost-calc.php:56
+#, php-format
+msgid "No %s found in Trash."
+msgstr ""
+
+#: backend/helpers/post_type/cost-calc.php:55
+#, php-format
+msgid "No %s found."
+msgstr ""
+
+#: backend/helpers/helper.php:123
+msgid "No calculator was found"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:53
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:84
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:139
+msgid "Padding"
+msgstr ""
+
+#: backend/helpers/helper.php:265 backend/helpers/helper.php:426
+msgid "Pal"
+msgstr ""
+
+#: backend/helpers/post_type/cost-calc.php:54
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: backend/helpers/helper.php:265 backend/helpers/helper.php:426
+msgid "Pay"
+msgstr ""
+
+#: backend/helpers/helper.php:262 backend/helpers/helper.php:423
+msgid "Payment Methods"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/create-page.php:137
+msgid "Please drag & drop calculator elements here"
+msgstr ""
+
+#: backend/helpers/post_type/cost-calc.php:45
+msgctxt "post type singular name"
+msgid "Calc"
+msgstr ""
+
+#: backend/includes/admin/view/main.php:47
+msgid "Premium Add-on"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/create-page.php:22
+msgid "Preview"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/listing-page.php:7
+msgid "Project Name"
+msgstr ""
+
+#: backend/helpers/helper.php:275 backend/helpers/helper.php:436
+msgid "Purchase"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/create-page.php:179
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:187
+msgid "Save"
+msgstr ""
+
+#: backend/helpers/post_type/cost-calc.php:53
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/listing-page.php:8
+msgid "Short Code"
+msgstr ""
+
+#: backend/helpers/helper.php:269 backend/helpers/helper.php:430
+msgid "Stripe"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: backend/helpers/helper.php:249 backend/helpers/helper.php:279
+#: backend/helpers/helper.php:412 backend/helpers/helper.php:440
+msgid "Submit"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:47
+msgid "Text-shadow"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/listing-page.php:43
+msgid "There are no calculators yet"
+msgstr ""
+
+#: backend/includes/admin/view/main.php:46
+msgid "This feature is part of"
+msgstr ""
+
+#: backend/includes/Controllers/STM_Rest_Api_Callbacks.php:153
+msgid "Total Descriptions"
+msgstr ""
+
+#: backend/helpers/helper.php:164 backend/helpers/helper.php:332
+#: backend/includes/admin/view/partials/tab-pages/create-page.php:48
+#: backend/includes/admin/view/partials/tab-pages/create-page.php:89
+msgid "Total Summary"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:11
+msgid "V-Container"
+msgstr ""
+
+#: backend/helpers/post_type/cost-calc.php:51
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:30
+msgid "Weight/Style"
+msgstr ""
+
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:73
+#: backend/includes/admin/view/partials/tab-pages/custom-page.php:128
+msgid "Width"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WP Cost Calculator helps you to build any type of estimation forms on a few "
+"easy steps. The plugin offers its own calculation builder."
+msgstr ""
